@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kevin!  
+# 👋 Servus, I'm Kevin!  
 
 🎯 **Software Engineer | Tech Enthusiast | Lifelong Learner**  
 
