@@ -9,7 +9,7 @@
 ```json
 {
   "name": "Kevin",
-  "profession": [Software Engineer", "Web Developer", "Graphical Designer", "Linux Administrator"],
+  "profession": ["Software Engineer", "Web Developer", "Graphical Designer", "Linux Administrator"],
   "languages": ["German", "English", "Spanish"],
   "coding_languages": ["C", "Java", "HTML", "JavaScript", "CSS"],
   "hobbies": ["Tennis 🎾", "Coding 💻", "Learning Guitar 🎸", "Gaming 🎮"]
