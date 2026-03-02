@@ -18,3 +18,5 @@
 ![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=klichtl&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klichtl&layout=compact&theme=radical)
+
+[More about me](https://klichtl.github.io)
